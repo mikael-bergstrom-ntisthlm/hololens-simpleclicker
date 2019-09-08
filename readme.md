@@ -1,4 +1,3 @@
-Ladda ner denna zipfil och packa upp den.
 Öppna i Unity 2017.2 eller senare (dock inte 2019)
 
 Lägg in 3d-modeller och ge dem scriptkomponenten TargetController för att göra dem luft-klickbara.
