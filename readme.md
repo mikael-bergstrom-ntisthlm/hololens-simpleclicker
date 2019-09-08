@@ -2,7 +2,7 @@
 
 Lägg in 3d-modeller och ge dem scriptkomponenten TargetController för att göra dem luft-klickbara.
 
-Information om hur man får ett HoloLens-projekt att funka i Unity finns här:
+Information om hur man får ett HoloLens-projekt att simuleras korrekt i Unity (med "händerna") finns här:
 https://sites.google.com/view/unityarvr/hololens/vanliga-fel
 
 Spelet funkar såhär:
